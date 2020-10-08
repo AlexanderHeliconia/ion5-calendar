@@ -1,13 +1,5 @@
 # 📅 ion5-schedule
 
-[![Build Status](https://travis-ci.org/HsuanXyz/ion2-calendar.svg?branch=master)](https://travis-ci.org/HsuanXyz/ion2-calendar)
-[![Dependency Status](https://david-dm.org/HsuanXyz/ion2-calendar.svg)](https://david-dm.org/HsuanXyz/ion2-calendar)
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][downloads-url]
-[![MIT License][license-image]][license-url]
-
-
-
 - Soporte de rango de fechas.
 - Soporte de múltiples fechas.
 - Soporte de componentes HTML.
