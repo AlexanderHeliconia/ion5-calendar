@@ -15,7 +15,7 @@
 - Evento de días de configuración.
 - Configuración de localización.
 
-# Support
+# Soporte
 
 - @ionic/angular `^5.0.0`
 
